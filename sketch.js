@@ -1,13 +1,13 @@
 //variáveis da bolinha
 let xBolinha = 300;
 let yBolinha = 200;
-let diametro = 16;
+let diametro = 17;
 let raio = diametro / 2 ;
 
 //velocidade da bolinha
-let velocidadeXBolinha = 13;
-let velocidadeYBolinha = 17;
-let raqueteComprimento = 10;
+let velocidadeXBolinha = 14;
+let velocidadeYBolinha = 19;
+let raqueteComprimento = 11;
 let raqueteAltura = 90;
 
 //variáveis da raquete
